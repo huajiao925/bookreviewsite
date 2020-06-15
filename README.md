@@ -1,5 +1,15 @@
 # Book review site
-a book review site developed by Python (Flask)
-Using Heroku server
-Get GoodRead data via API.
-Functions: login, logout, register, search, product page, view reviews, write review for the book.
+A book review site developed by Python (Flask, jinja)
+
+Using Heroku server and PostgreSQL
+
+Retrieve and Post GoodRead data via API.
+
+Functions: 
+- login: hash password
+- logout
+- register
+- search
+- display products
+- view reviews
+- write review
